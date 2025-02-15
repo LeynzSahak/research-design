@@ -39,33 +39,3 @@ Machine learning, river basin pollution, predictive modeling, water quality, env
 |  5.  | Chapter 4 | <a href="Chapter 4/CHAPTER 4_Haslinda binti Abdul Sahak.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/CHAPTER 5_Haslinda binti Abdul Sahak.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Full Chapter | <a href="Full Chapter/Thesis_Haslinda binti Abdul Sahak.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-
-# **Predictive Modeling**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
-
-<p align="justify">
-
-  
-<p align="justify">
-
-
-<p align="justify">
-
-</p></br>
-
-# **Machine Learning**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Picture1.png"></div>
-
-<p align="justify">
-
-  
-<p align="justify">
-
-
-<p align="justify">
-
-</p></br>
-
-# **Research Framework**
-
-
